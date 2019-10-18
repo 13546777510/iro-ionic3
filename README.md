@@ -25,10 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#features">Features</a> | <a href="#demo">Demo</a> | <a href="#installation">Installation</a> | <a href="#usage">Usage</a> | <a href="#plugins">Plugins</a> | <a href="#documentation">Documentation</a>
-</p>
-
 <br/>
 
 ## Running on ionic3
