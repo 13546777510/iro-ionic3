@@ -1,5 +1,7 @@
 {
   "name": "iro",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
