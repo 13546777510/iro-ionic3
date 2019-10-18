@@ -29,4 +29,41 @@
 
 ## Running on ionic3
 
+#### Clone Code From Git
+```
+git clone https://github.com/13546777510/irotest.git
+```
 
+#### Open project
+```
+cd irotest
+```
+
+#### Install npm
+```
+npm install
+```
+
+#### Run on iOS / Android
+
+##### iOS
+```
+ionic cordova prepare ios
+```
+
+##### Android
+```
+ionic cordova prepare android
+```
+
+##### Possible questions from the console
+- Platform ios is not installed! Would you like to install it? (Y/n) 
+- `y`
+
+#### Open project in Xcode / Android studio
+
+##### Xcode
+Open path: `irotest/platforms/ios`
+
+##### Android studio
+Open path: `irotest/platforms/android`
