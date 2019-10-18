@@ -31,34 +31,36 @@
 
 #### Clone Code From Git
 ```
-git clone https://github.com/13546777510/irotest.git
+$ git clone https://github.com/13546777510/irotest.git
 ```
 
 #### Open project
 ```
-cd irotest
+$ cd irotest
 ```
 
 #### Install npm
 ```
-npm install
+$ npm install
 ```
 
 #### Run on iOS / Android
 
 ##### iOS
 ```
-ionic cordova prepare ios
+$ ionic cordova prepare ios
 ```
 
 ##### Android
 ```
-ionic cordova prepare android
+$ ionic cordova prepare android
 ```
 
 ##### Possible questions from the console
-- Platform ios is not installed! Would you like to install it? (Y/n) 
-- `y`
+Platform ios is not installed! Would you like to install it? (Y/n)
+```
+$ y
+```
 
 #### Open project in Xcode / Android studio
 
