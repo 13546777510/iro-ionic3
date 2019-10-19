@@ -31,12 +31,12 @@
 
 ### Clone Code From Git
 ```
-$ git clone https://github.com/13546777510/iro-ionic3-demo.git
+$ git clone https://github.com/13546777510/iro-ionic3.git
 ```
 
 ### Open project
 ```
-$ cd iro-ionic3-demo
+$ cd iro-ionic3
 ```
 
 ### Install npm
@@ -65,7 +65,7 @@ $ y
 ### Open project in Xcode / Android studio
 
 #### Xcode
-Open path: `iro-ionic3-demo/platforms/ios`
+Open path: `iro-ionic3/platforms/ios`
 
 #### Android studio
-Open path: `iro-ionic3-demo/platforms/android`
+Open path: `iro-ionic3/platforms/android`
