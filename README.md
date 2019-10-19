@@ -31,12 +31,12 @@
 
 ### Clone Code From Git
 ```
-$ git clone https://github.com/13546777510/irotest.git
+$ git clone https://github.com/13546777510/iro-ionic3-demo.git
 ```
 
 ### Open project
 ```
-$ cd irotest
+$ cd iro-ionic3-demo
 ```
 
 ### Install npm
@@ -65,7 +65,7 @@ $ y
 ### Open project in Xcode / Android studio
 
 #### Xcode
-Open path: `irotest/platforms/ios`
+Open path: `iro-ionic3-demo/platforms/ios`
 
 #### Android studio
-Open path: `irotest/platforms/android`
+Open path: `iro-ionic3-demo/platforms/android`
